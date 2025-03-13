@@ -20,7 +20,7 @@ This project is an AI-powered Medical Assistant Chatbot that provides real-time 
 ### Tech Stack & Libraries Used
 
 ### 1. Backend & Frameworks
--Flask: Web framework for serving the chatbot API.
+ - Flask: Web framework for serving the chatbot API.
 
 ### 2. AI & NLP
  - Google Gemini-1.5-Pro: Advanced language model for generating medical responses.
@@ -52,7 +52,7 @@ This project is an AI-powered Medical Assistant Chatbot that provides real-time 
 Clone the repository
 
 ```bash
-Project repo:hhtps://github.com/
+Project repo:https://github.com/Niteshsinghbisht03/AI-Powered-End-to-End-Medical-Chatbot.git
 ```
 
 ### STEP 01 - Create a conda enivronment after opening the repository
